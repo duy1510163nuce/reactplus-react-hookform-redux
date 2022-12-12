@@ -1,0 +1,32 @@
+.header{
+    width:100% ;
+    height: 70px;
+    background-color: #ccc; 
+    display:flex;
+    
+}
+.header-home {
+    color: #000;
+    font-size:24px;
+    border-left:1px solid #000;
+    border-right:1px solid #000;
+    border-radius: 5px;
+    line-height: 70px;
+    margin:  0 20px;
+    padding: 0 10px;
+    text-decoration: none;
+}
+.header-tweets {
+    color: #000;
+    font-size:24px;
+    border-left:1px solid #000;
+    border-right:1px solid #000;
+    border-radius: 5px;
+    line-height: 70px;
+    margin:  0 20px;
+    padding: 0 10px;
+   
+}
+.button-home{
+     text-decoration: none;
+}
